@@ -37,7 +37,7 @@ git pull origin <nama branch>
 #### contoh 
 
 ```
-git pull https://github.com/yuansheva/php-login-register.git
+git pull origin main
 From https://github.com/yuansheva/php-login-register
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
